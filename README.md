@@ -1,5 +1,7 @@
-# Visionary Match Tracker 🏏
+<img width="1600" height="857" alt="WhatsApp Image 2026-05-03 at 5 18 52 PM" src="https://github.com/user-attachments/assets/4a222515-c03a-4656-8729-5e188d9a6478" /># Visionary Match Tracker 🏏
 AI-powered cricket analytics built with **Gemini** and **AntiGravity agentic workflows** for the Build With AI :: Agentic Premier League hackathon.
+
+
 
 ---
 
